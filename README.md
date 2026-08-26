@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/d4hLMRWd/apple-touch-icon.png" alt="apple touch icon" border="0">
+<img src="https://i.ibb.co/HTj2ttz/Github-Readme.png" alt="GitHub Readme">
 </div>
 
 ## Hey there! I'm Christsanctus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
