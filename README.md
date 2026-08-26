@@ -46,9 +46,19 @@ Here are some of the technologies I'm proficient in:
 
 <br/>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SanctusCode&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=SanctusCode&show_icons=true&include_all_commits=true&theme=dark)
+<div align="center">
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=SanctusCode&show_icons=true&include_all_commits=true&theme=dark" 
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=SanctusCode&layout=compact&langs_count=8&theme=dark" 
+    height="180"
+    alt="Top Languages"
+  />
+</div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SanctusCode&layout=compact&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SanctusCode&layout=compact&langs_count=8&theme=dark)
 <br/>
 
 ### Connect with Me 🤝🏻
