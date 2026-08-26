@@ -47,7 +47,8 @@ Here are some of the technologies I'm proficient in:
 <br/>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SanctusCode&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=SanctusCode&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=SanctusCode&layout=compact&langs_count=6&display_format=percent&theme=dark)](https://wakatime.com/@alan)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SanctusCode&layout=pie&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SanctusCode&layout=pie&langs_count=6&theme=dark)
 <br/>
 
 ### Connect with Me 🤝🏻
