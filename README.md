@@ -46,10 +46,7 @@ Here are some of the technologies I'm proficient in:
 
 <br/>
 
-<a href="https://github.com/SanctusCode">
- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SanctusCode)](https://github.com/stats-organization/github-stats-extended)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanctusCode&theme=buefy&layout=compact" />
-</a>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SanctusCode)](https://github.com/stats-organization/github-stats-extended)
 
 <br/>
 
