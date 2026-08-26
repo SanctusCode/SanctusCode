@@ -46,7 +46,7 @@ Here are some of the technologies I'm proficient in:
 
 <br/>
 
-<a href="https://github.com/sherlockholms221B">
+<a href="https://github.com/SanctusCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanctusCode&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanctusCode&theme=buefy&layout=compact" />
 </a>
