@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/JW8pfwHQ/Screenshot-2026-08-26-004310.png" alt="Screenshot 2026 08 26 004310" border="0">
+<img src="https://i.ibb.co/XrkbBC3D/Screenshot-2026-08-26-004310.png" alt="Screenshot 2026 08 26 004310" border="0">
 </div>
 
 ## Hey there! I'm Christsanctus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
