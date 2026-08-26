@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/HTj2ttz/Github-Readme.png" alt="GitHub Readme">
+ <img src="https://i.ibb.co/7xjtRYhL/Screenshot-2026-08-26-080315.png" alt="Screenshot 2026 08 26 080315" border="0">
 </div>
 
 ## Hey there! I'm Christsanctus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
