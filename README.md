@@ -55,7 +55,7 @@ Here are some of the technologies I'm proficient in:
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs?username=SanctusCode&layout=compact&langs_count=8&theme=dark" 
     height="180"
-     width="50%"
+     width="40%"
     alt="Top Languages"
   />
 </div>
